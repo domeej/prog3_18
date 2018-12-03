@@ -3,11 +3,11 @@ CFLAGS = -g -ansi -Wall -pedantic
 
 .PHONY: run clean
 
-all: a16
+all: a17
 
-run: main
-	./main kunft=yo Haus=Unterkunft
-
+run: a17 3.5717178E-12
+	./a17
+	
 clean:
-	-/bin/rm -f a16
+	-/bin/rm -f a17
 

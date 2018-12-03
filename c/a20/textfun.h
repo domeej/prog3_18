@@ -21,8 +21,3 @@ char *find(const char *s);
 int replaceAll(char *s);
 
 void printPairs();
-
-void serializeList();
-
-void deserializeList();
-

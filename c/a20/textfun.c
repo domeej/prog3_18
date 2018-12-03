@@ -3,7 +3,6 @@
 #include "textfun.h"
 #include <stdio.h>
 #define SIZE 25
-#define FILENAME "glogomir.txt"
 
 
 ListEle *wordList = NULL;
@@ -30,6 +29,7 @@ void addPair(const char *such, const char *ersatz){
 		}
 		act->next = new;
 	}
+	
 }
 
 void printPairs(){
@@ -113,40 +113,22 @@ int replaceAll(char *s){
 }
 
 void serializeList(){
-	FILE *fp = fopen(FILENAME, "w");
+	FILE *fp = fopen("glogomir.txt", "w");
 	ListEle *p;
 	p = wordList;
-	printf("serialisiere...\n");
-
+	
+	if(p==NULL){
+		printf("keine Paare vorhanden");
+	}
 	while(p!=NULL){
-		fputs(p->word, fp);
-		fputs(":", fp);
-		fputs(p->replacement, fp);
-		fputs("\n", fp);
+		printf("%s->", p->word);
+		fputs(p->word);
+		fputs(p->replacement);
+		
+		if(p->next  == NULL){
+			printf("NULL");
+		}
 		p=p->next;
 		
 	}
-	fclose(fp);
-}
-
-void deserializeList(){
-	FILE *fp = fopen(FILENAME, "r");
-	char word[255];
-	char *p;
-
-	char replacement[255]; 
-	printf("BAMdeserialize...\n");
-
-	
-	while(fgets(word, 255, fp)!= NULL){
-		p = strchr(word, ':');
-		*p = 0;
-		p+=1;
-		strncpy(replacement, p, strlen(p)-1);
-		addPair(word, replacement);
-	} 
-	
-	
-	fclose(fp);
-	
 }

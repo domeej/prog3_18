@@ -55,18 +55,11 @@ int main (int argc, char *argv[]){
 		
 		addPair(key, value);		
 	}
-	
-	if(argc<=1){
-		deserializeList();
-	}else{
-		serializeList();
-	}
-		
 	printPairs();
 	
 	while(fgets(s, SIZE, stdin) != NULL){
 		replaceAll(s);
-	
 	}
-	
+	serializeList();
 }
+
