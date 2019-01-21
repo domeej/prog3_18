@@ -1,5 +1,5 @@
 CC = cc
-CFLAGS = -g -std=c99 -Wall -pedantic
+CFLAGS = -g -ansi -Wall -pedantic
 
 .PHONY: run clean
 
