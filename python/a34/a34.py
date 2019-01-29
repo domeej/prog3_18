@@ -42,3 +42,4 @@ def decrypt_functional():
 if __name__ == "__main__":
     decrypt_classic()
     decrypt_listcomprehension()
+    
