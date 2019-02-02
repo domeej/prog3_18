@@ -75,7 +75,7 @@ def checkLessThan():
     
     # sorting tests geht weil __eq__ und __lt__
     lis = [c,d,f,a,b,e]
-    print(sorted(lis))
+    print("sorted:",sorted(lis))
     
     # tests auf < > == 
     print(b==a)
