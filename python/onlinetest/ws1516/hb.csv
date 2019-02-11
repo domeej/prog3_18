@@ -1,0 +1,343 @@
+Nr;Datum;Zeit;Heim;Gast;Tore;Punkte
+006;23.08.14;19:00;TBV Lemgo;THW Kiel;27:21;2:0
+002;23.08.14;19:00;SG Flensburg-Handewitt;TSG Lu-Friesenheim;29:23;2:0
+003;23.08.14;19:00;TSV Hannover-Burgdorf;MT Melsungen;22:26;0:2
+004;23.08.14;19:00;Bergischer HC;SG BBM Bietigheim;33:27;2:0
+007;23.08.14;20:15;HC Erlangen;TuS N-Luebbecke;25:30;0:2
+008;23.08.14;20:15type filter text;FRISCH AUF! Goeppingen;Fuechse Berlin;29:27;2:0
+005;24.08.14;15:00;VfL Gummersbach;HSV Handball;27:27;1:1
+009;24.08.14;17:15;TSV GWD Minden;HSG Wetzlar;24:30;0:2
+001;24.08.14;17:15;Rhein-Neckar Loewen;SC Magdeburg;24:23;2:0
+010;26.08.14;20:15;MT Melsungen;HBW Balingen-Weilstetten;31:20;2:0
+011;26.08.14;20:15;THW Kiel;SG Flensburg-Handewitt;30:26;2:0
+012;27.08.14;20:15;SG BBM Bietigheim;Rhein-Neckar Loewen;22:32;0:2
+013;29.08.14;19:45;HSG Wetzlar;TBV Lemgo;32:25;2:0
+014;29.08.14;19:45;TSG Lu-Friesenheim;FRISCH AUF! Goeppingen;23:29;0:2
+015;29.08.14;19:45;HSV Handball;TSV Hannover-Burgdorf;23:23;1:1
+016;29.08.14;19:45;Fuechse Berlin;Bergischer HC;32:23;2:0
+017;29.08.14;19:45;MT Melsungen;VfL Gummersbach;26:27;0:2
+018;29.08.14;19:45;SC Magdeburg;HC Erlangen;31:26;2:0
+019;29.08.14;19:45;TuS N-Luebbecke;TSV GWD Minden;23:26;0:2
+028;31.08.14;15:00;SG Flensburg-Handewitt;MT Melsungen;29:22;2:0
+029;31.08.14;15:00;HBW Balingen-Weilstetten;TSV GWD Minden;28:25;2:0
+021;31.08.14;17:15;HSV Handball;THW Kiel;19:20;0:2
+022;31.08.14;17:15;TSV Hannover-Burgdorf;TuS N-Luebbecke;35:28;2:0
+023;31.08.14;17:15;Bergischer HC;SC Magdeburg;24:25;0:2
+024;31.08.14;17:15;VfL Gummersbach;TSG Lu-Friesenheim;30:24;2:0
+025;31.08.14;17:15;TBV Lemgo;SG BBM Bietigheim;37:30;2:0
+026;31.08.14;17:15;FRISCH AUF! Goeppingen;HSG Wetzlar;23:22;2:0
+027;31.08.14;17:15;Rhein-Neckar Loewen;HC Erlangen;35:18;2:0
+031;03.09.14;19:45;TuS N-Luebbecke;SG Flensburg-Handewitt;26:31;0:2
+100;03.09.14;20:15;HBW Balingen-Weilstetten;THW Kiel;22:21;2:0
+032;05.09.14;19:45;HSG Wetzlar;THW Kiel;29:32;0:2
+033;06.09.14;18:15;Rhein-Neckar Loewen;HSV Handball;28:26;2:0
+035;06.09.14;19:00;HC Erlangen;Bergischer HC;25:25;1:1
+036;06.09.14;20:15;SG BBM Bietigheim;TSV GWD Minden;27:23;2:0
+037;07.09.14;15:00;Fuechse Berlin;VfL Gummersbach;30:27;2:0
+040;07.09.14;15:00;HBW Balingen-Weilstetten;TuS N-Luebbecke;23:23;1:1
+038;07.09.14;17:15;MT Melsungen;TBV Lemgo;35:30;2:0
+039;07.09.14;17:15;SC Magdeburg;FRISCH AUF! Goeppingen;32:32;1:1
+034;07.09.14;17:15;TSG Lu-Friesenheim;TSV Hannover-Burgdorf;27:24;2:0
+081;10.09.14;20:15;VfL Gummersbach;Rhein-Neckar Loewen;27:32;0:2
+110;10.09.14;20:15;HBW Balingen-Weilstetten;HSV Handball;22:21;2:0
+042;13.09.14;15:00;HSV Handball;HSG Wetzlar;28:31;0:2
+044;13.09.14;19:00;Bergischer HC;Rhein-Neckar Loewen;24:23;2:0
+045;13.09.14;19:00;VfL Gummersbach;SG BBM Bietigheim;35:29;2:0
+046;13.09.14;19:00;TBV Lemgo;TuS N-Luebbecke;27:35;0:2
+047;13.09.14;20:15;FRISCH AUF! Goeppingen;HC Erlangen;25:21;2:0
+043;14.09.14;15:00;TSV Hannover-Burgdorf;SC Magdeburg;24:28;0:2
+048;14.09.14;17:15;TSV GWD Minden;TSG Lu-Friesenheim;33:26;2:0
+049;14.09.14;17:15;THW Kiel;MT Melsungen;32:23;2:0
+050;14.09.14;17:15;Fuechse Berlin;HBW Balingen-Weilstetten;30:23;2:0
+051;24.09.14;19:00;Rhein-Neckar Loewen;FRISCH AUF! Goeppingen;26:20;2:0
+057;24.09.14;20:15;SG BBM Bietigheim;THW Kiel;25:37;0:2
+058;24.09.14;20:15;SC Magdeburg;SG Flensburg-Handewitt;29:26;2:0
+030;24.09.14;20:15;TSV GWD Minden;Fuechse Berlin;30:21;2:0
+053;27.09.14;15:00;MT Melsungen;HSG Wetzlar;28:28;1:1
+054;27.09.14;19:00;Bergischer HC;TSV GWD Minden;32:30;2:0
+055;27.09.14;19:00;TuS N-Luebbecke;HSV Handball;28:34;0:2
+056;27.09.14;19:00;HC Erlangen;VfL Gummersbach;25:24;2:0
+059;28.09.14;15:00;Fuechse Berlin;TSV Hannover-Burgdorf;28:29;0:2
+060;28.09.14;17:15;SG BBM Bietigheim;HBW Balingen-Weilstetten;25:29;0:2
+063;01.10.14;19:00;HSG Wetzlar;TuS N-Luebbecke;22:28;0:2
+061;01.10.14;19:00;SG Flensburg-Handewitt;HC Erlangen;27:17;2:0
+180;01.10.14;19:00;TSG Lu-Friesenheim;HBW Balingen-Weilstetten;28:27;2:0
+069;01.10.14;20:15;TSV GWD Minden;Rhein-Neckar Loewen;25:37;0:2
+065;01.10.14;20:15;TBV Lemgo;Fuechse Berlin;28:29;0:2
+066;04.10.14;19:00;HSV Handball;MT Melsungen;31:30;2:0
+067;04.10.14;19:00;TSV Hannover-Burgdorf;SG BBM Bietigheim;36:29;2:0
+068;04.10.14;20:15;FRISCH AUF! Goeppingen;Bergischer HC;31:27;2:0
+064;05.10.14;15:00;VfL Gummersbach;SC Magdeburg;28:27;2:0
+070;05.10.14;15:00;HBW Balingen-Weilstetten;HC Erlangen;31:22;2:0
+062;05.10.14;17:15;THW Kiel;TSG Lu-Friesenheim;29:21;2:0
+071;08.10.14;19:00;Rhein-Neckar Loewen;TSV Hannover-Burgdorf;32:20;2:0
+072;08.10.14;19:00;SC Magdeburg;HSV Handball;25:26;0:2
+077;11.10.14;16:15;Fuechse Berlin;THW Kiel;27:38;0:2
+080;11.10.14;19:00;TSV Hannover-Burgdorf;HBW Balingen-Weilstetten;29:23;2:0
+076;11.10.14;19:00;TuS N-Luebbecke;MT Melsungen;28:28;1:1
+074;11.10.14;19:00;HC Erlangen;TBV Lemgo;31:25;2:0
+078;11.10.14;20:15;FRISCH AUF! Goeppingen;TSV GWD Minden;29:28;2:0
+079;11.10.14;20:15;SG BBM Bietigheim;SG Flensburg-Handewitt;30:38;0:2
+075;12.10.14;15:00;Bergischer HC;VfL Gummersbach;28:26;2:0
+149;14.10.14;19:00;Fuechse Berlin;HC Erlangen;26:26;1:1
+083;15.10.14;19:00;HSV Handball;TSG Lu-Friesenheim;33:25;2:0
+084;15.10.14;20:15;THW Kiel;TuS N-Luebbecke;24:21;2:0
+089;15.10.14;20:15;MT Melsungen;SG BBM Bietigheim;33:25;2:0
+090;15.10.14;20:15;HBW Balingen-Weilstetten;Rhein-Neckar Loewen;27:32;0:2
+086;17.10.14;19:45;HSG Wetzlar;Fuechse Berlin;24:24;1:1
+087;18.10.14;19:00;TBV Lemgo;SC Magdeburg;23:30;0:2
+082;19.10.14;15:00;SG Flensburg-Handewitt;Bergischer HC;40:27;2:0
+085;19.10.14;17:15;TSV Hannover-Burgdorf;FRISCH AUF! Goeppingen;29:29;1:1
+088;19.10.14;17:15;TSV GWD Minden;HC Erlangen;29:25;2:0
+091;25.10.14;16:15;Rhein-Neckar Loewen;THW Kiel;28:29;0:2
+094;25.10.14;19:00;HC Erlangen;TSV Hannover-Burgdorf;32:29;2:0
+092;25.10.14;19:00;Bergischer HC;TBV Lemgo;31:30;2:0
+095;25.10.14;20:15;FRISCH AUF! Goeppingen;SG Flensburg-Handewitt;26:34;0:2
+093;26.10.14;17:15;TSG Lu-Friesenheim;TuS N-Luebbecke;25:40;0:2
+096;26.10.14;17:15;SG BBM Bietigheim;HSV Handball;28:34;0:2
+097;26.10.14;17:15;TSV GWD Minden;VfL Gummersbach;25:28;0:2
+098;26.10.14;17:15;Fuechse Berlin;MT Melsungen;27:24;2:0
+099;26.10.14;17:15;SC Magdeburg;HSG Wetzlar;33:30;2:0
+103;05.11.14;19:00;VfL Gummersbach;FRISCH AUF! Goeppingen;27:31;0:2
+104;05.11.14;19:00;TBV Lemgo;TSV GWD Minden;38:21;2:0
+101;05.11.14;19:00;HSG Wetzlar;SG BBM Bietigheim;26:29;0:2
+106;05.11.14;19:00;TuS N-Luebbecke;Fuechse Berlin;26:35;0:2
+107;05.11.14;19:00;THW Kiel;SC Magdeburg;34:22;2:0
+109;05.11.14;20:15;TSV Hannover-Burgdorf;Bergischer HC;39:31;2:0
+105;05.11.14;20:15;HSV Handball;HC Erlangen;34:24;2:0
+102;05.11.14;20:15;MT Melsungen;TSG Lu-Friesenheim;31:25;2:0
+108;05.11.14;20:45;SG Flensburg-Handewitt;Rhein-Neckar Loewen;26:29;0:2
+111;08.11.14;19:00;TSV GWD Minden;SG Flensburg-Handewitt;22:31;0:2
+112;08.11.14;19:00;HC Erlangen;HSG Wetzlar;22:20;2:0
+113;08.11.14;19:00;Rhein-Neckar Loewen;TBV Lemgo;35:34;2:0
+114;08.11.14;19:00;Bergischer HC;THW Kiel;20:32;0:2
+117;08.11.14;20:15;SG BBM Bietigheim;TuS N-Luebbecke;24:32;0:2
+116;09.11.14;15:00;FRISCH AUF! Goeppingen;HSV Handball;26:23;2:0
+115;09.11.14;17:15;VfL Gummersbach;TSV Hannover-Burgdorf;29:29;1:1
+118;09.11.14;17:15;Fuechse Berlin;TSG Lu-Friesenheim;30:24;2:0
+119;09.11.14;17:15;SC Magdeburg;MT Melsungen;37:33;2:0
+122;12.11.14;19:00;TBV Lemgo;FRISCH AUF! Goeppingen;22:26;0:2
+073;12.11.14;19:00;TSG Lu-Friesenheim;HSG Wetzlar;23:29;0:2
+120;12.11.14;20:15;Bergischer HC;HBW Balingen-Weilstetten;22:18;2:0
+121;12.11.14;20:15;SG Flensburg-Handewitt;VfL Gummersbach;32:26;2:0
+123;12.11.14;20:15;THW Kiel;HC Erlangen;23:22;2:0
+126;15.11.14;15:00;TuS N-Luebbecke;SC Magdeburg;29:25;2:0
+127;15.11.14;19:00;MT Melsungen;Rhein-Neckar Loewen;28:31;0:2
+125;15.11.14;19:00;HSG Wetzlar;Bergischer HC;25:18;2:0
+128;16.11.14;17:15;TSV Hannover-Burgdorf;TSV GWD Minden;26:20;2:0
+129;16.11.14;17:15;HSV Handball;Fuechse Berlin;33:25;2:0
+130;16.11.14;17:15;VfL Gummersbach;HBW Balingen-Weilstetten;31:25;2:0
+131;19.11.14;19:00;Rhein-Neckar Loewen;HSG Wetzlar;27:20;2:0
+132;19.11.14;19:00;SG Flensburg-Handewitt;TSV Hannover-Burgdorf;32:26;2:0
+124;19.11.14;19:00;TSG Lu-Friesenheim;SG BBM Bietigheim;26:20;2:0
+138;19.11.14;20:15;FRISCH AUF! Goeppingen;THW Kiel;25:29;0:2
+133;19.11.14;20:15;HC Erlangen;MT Melsungen;28:31;0:2
+135;22.11.14;15:00;SC Magdeburg;TSG Lu-Friesenheim;36:28;2:0
+136;22.11.14;19:00;Bergischer HC;TuS N-Luebbecke;28:27;2:0
+137;22.11.14;19:00;VfL Gummersbach;TBV Lemgo;29:28;2:0
+140;23.11.14;15:00;HBW Balingen-Weilstetten;HSG Wetzlar;22:24;0:2
+134;23.11.14;18:00;TSV GWD Minden;HSV Handball;36:30;2:0
+144;26.11.14;19:00;TSG Lu-Friesenheim;Rhein-Neckar Loewen;22:30;0:2
+141;26.11.14;20:15;TBV Lemgo;SG Flensburg-Handewitt;26:30;0:2
+145;26.11.14;20:15;MT Melsungen;TSV GWD Minden;35:25;2:0
+148;26.11.14;20:15;HSV Handball;Bergischer HC;21:20;2:0
+139;26.11.14;20:15;SG BBM Bietigheim;Fuechse Berlin;22:24;0:2
+143;28.11.14;19:45;HSG Wetzlar;TSV Hannover-Burgdorf;29:27;2:0
+146;29.11.14;19:00;TuS N-Luebbecke;FRISCH AUF! Goeppingen;29:27;2:0
+150;29.11.14;19:00;HBW Balingen-Weilstetten;TBV Lemgo;33:28;2:0
+147;29.11.14;20:15;SG BBM Bietigheim;SC Magdeburg;23:30;0:2
+142;30.11.14;15:00;THW Kiel;VfL Gummersbach;33:27;2:0
+151;03.12.14;19:00;Rhein-Neckar Loewen;TuS N-Luebbecke;35:25;2:0
+190;03.12.14;19:00;HSV Handball;HBW Balingen-Weilstetten;26:28;0:2
+154;03.12.14;20:15;SC Magdeburg;Fuechse Berlin;30:26;2:0
+157;05.12.14;19:45;HC Erlangen;SG BBM Bietigheim;24:24;1:1
+160;06.12.14;19:00;SC Magdeburg;HBW Balingen-Weilstetten;27:19;2:0
+155;06.12.14;19:00;Bergischer HC;TSG Lu-Friesenheim;27:30;0:2
+156;06.12.14;19:00;VfL Gummersbach;HSG Wetzlar;23:21;2:0
+153;06.12.14;19:00;TSV Hannover-Burgdorf;TBV Lemgo;31:27;2:0
+158;06.12.14;20:15;FRISCH AUF! Goeppingen;MT Melsungen;26:31;0:2
+159;07.12.14;15:00;TSV GWD Minden;THW Kiel;23:32;0:2
+152;07.12.14;20:15;SG Flensburg-Handewitt;HSV Handball;29:24;2:0
+181;09.12.14;19:00;HC Erlangen;Rhein-Neckar Loewen;27:25;2:0
+041;10.12.14;18:45;SG Flensburg-Handewitt;Fuechse Berlin;36:27;2:0
+052;10.12.14;19:00;TSG Lu-Friesenheim;TBV Lemgo;25:24;2:0
+170;10.12.14;20:15;HBW Balingen-Weilstetten;FRISCH AUF! Goeppingen;24:30;0:2
+161;13.12.14;19:00;TSG Lu-Friesenheim;HC Erlangen;27:26;2:0
+162;13.12.14;19:00;MT Melsungen;Bergischer HC;40:28;2:0
+163;13.12.14;19:00;TuS N-Luebbecke;VfL Gummersbach;29:31;0:2
+165;13.12.14;20:15;SG BBM Bietigheim;FRISCH AUF! Goeppingen;29:25;2:0
+164;14.12.14;15:00;HSG Wetzlar;SG Flensburg-Handewitt;22:22;1:1
+166;14.12.14;17:15;SC Magdeburg;TSV GWD Minden;28:22;2:0
+167;14.12.14;17:15;THW Kiel;TSV Hannover-Burgdorf;34:25;2:0
+168;14.12.14;17:15;HSV Handball;TBV Lemgo;28:32;0:2
+169;14.12.14;17:15;Fuechse Berlin;Rhein-Neckar Loewen;20:30;0:2
+199;20.12.14;15:00;HBW Balingen-Weilstetten;SG BBM Bietigheim;25:24;2:0
+172;20.12.14;19:00;SG Flensburg-Handewitt;THW Kiel;26:22;2:0
+173;20.12.14;19:00;TSV Hannover-Burgdorf;HSV Handball;30:36;0:2
+174;20.12.14;19:00;Bergischer HC;Fuechse Berlin;30:25;2:0
+175;20.12.14;19:00;VfL Gummersbach;MT Melsungen;26:32;0:2
+176;20.12.14;19:00;TBV Lemgo;HSG Wetzlar;26:26;1:1
+177;20.12.14;19:00;TSV GWD Minden;TuS N-Luebbecke;29:27;2:0
+178;20.12.14;19:00;HC Erlangen;SC Magdeburg;19:28;0:2
+179;20.12.14;20:15;FRISCH AUF! Goeppingen;TSG Lu-Friesenheim;33:25;2:0
+183;23.12.14;19:00;SG BBM Bietigheim;TSV Hannover-Burgdorf;24:28;0:2
+184;23.12.14;19:00;TSG Lu-Friesenheim;VfL Gummersbach;26:24;2:0
+185;23.12.14;19:00;SC Magdeburg;Bergischer HC;38:32;2:0
+186;23.12.14;19:00;TuS N-Luebbecke;TBV Lemgo;35:35;1:1
+187;23.12.14;19:00;Fuechse Berlin;FRISCH AUF! Goeppingen;24:22;2:0
+189;23.12.14;19:00;THW Kiel;HSV Handball;29:19;2:0
+188;23.12.14;20:15;MT Melsungen;SG Flensburg-Handewitt;22:22;1:1
+182;23.12.14;20:15;HSG Wetzlar;TSV GWD Minden;27:25;2:0
+020;26.12.14;15:00;SG Flensburg-Handewitt;HBW Balingen-Weilstetten;32:18;2:0
+193;26.12.14;17:15;Bergischer HC;HC Erlangen;32:27;2:0
+194;26.12.14;17:15;VfL Gummersbach;Fuechse Berlin;27:26;2:0
+195;26.12.14;17:15;TBV Lemgo;MT Melsungen;33:30;2:0
+196;26.12.14;17:15;FRISCH AUF! Goeppingen;SC Magdeburg;33:36;0:2
+191;26.12.14;17:15;THW Kiel;HSG Wetzlar;32:25;2:0
+198;27.12.14;18:15;HSV Handball;Rhein-Neckar Loewen;25:26;0:2
+192;27.12.14;19:00;TSV Hannover-Burgdorf;TSG Lu-Friesenheim;27:19;2:0
+197;27.12.14;19:00;TSV GWD Minden;SG BBM Bietigheim;35:27;2:0
+240;08.02.15;17:15;HC Erlangen;HBW Balingen-Weilstetten;28:27;2:0
+201;11.02.15;19:00;Rhein-Neckar Loewen;Bergischer HC;30:24;2:0
+202;11.02.15;19:00;Fuechse Berlin;TSV GWD Minden;32:23;2:0
+210;11.02.15;20:15;HBW Balingen-Weilstetten;TSV Hannover-Burgdorf;31:27;2:0
+203;11.02.15;20:15;MT Melsungen;THW Kiel;32:41;0:2
+206;14.02.15;19:00;HSG Wetzlar;HSV Handball;32:25;2:0
+209;14.02.15;19:00;HC Erlangen;FRISCH AUF! Goeppingen;24:29;0:2
+205;14.02.15;20:15;TuS N-Luebbecke;TSV Hannover-Burgdorf;25:25;1:1
+204;15.02.15;17:15;SC Magdeburg;VfL Gummersbach;33:28;2:0
+207;15.02.15;17:15;SG BBM Bietigheim;TBV Lemgo;22:34;0:2
+208;15.02.15;17:15;TSG Lu-Friesenheim;SG Flensburg-Handewitt;23:27;0:2
+220;18.02.15;19:00;TBV Lemgo;HBW Balingen-Weilstetten;21:21;1:1
+214;18.02.15;19:00;TSV Hannover-Burgdorf;Fuechse Berlin;26:31;0:2
+212;18.02.15;19:00;SG Flensburg-Handewitt;SC Magdeburg;26:30;0:2
+215;18.02.15;20:15;HSG Wetzlar;MT Melsungen;29:31;0:2
+218;18.02.15;20:45;FRISCH AUF! Goeppingen;Rhein-Neckar Loewen;22:33;0:2
+213;21.02.15;15:00;HSV Handball;TuS N-Luebbecke;34:26;2:0
+216;21.02.15;19:00;VfL Gummersbach;HC Erlangen;24:21;2:0
+217;21.02.15;19:00;TBV Lemgo;TSG Lu-Friesenheim;32:32;1:1
+219;21.02.15;19:00;TSV GWD Minden;Bergischer HC;28:30;0:2
+211;22.02.15;15:00;THW Kiel;SG BBM Bietigheim;40:27;2:0
+171;24.02.15;19:00;Rhein-Neckar Loewen;SG BBM Bietigheim;35:25;2:0
+200;25.02.15;19:00;SG Flensburg-Handewitt;TuS N-Luebbecke;25:21;2:0
+223;25.02.15;20:15;MT Melsungen;HSV Handball;23:26;0:2
+230;25.02.15;20:15;THW Kiel;HBW Balingen-Weilstetten;37:18;2:0
+222;26.02.15;19:00;Fuechse Berlin;TBV Lemgo;30:27;2:0
+221;28.02.15;17:00;Rhein-Neckar Loewen;SG Flensburg-Handewitt;23:20;2:0
+225;28.02.15;19:00;Bergischer HC;FRISCH AUF! Goeppingen;28:28;1:1
+226;28.02.15;19:00;TuS N-Luebbecke;HSG Wetzlar;27:26;2:0
+229;28.02.15;19:00;HC Erlangen;TSV GWD Minden;19:23;0:2
+227;28.02.15;20:15;SG BBM Bietigheim;VfL Gummersbach;23:21;2:0
+228;01.03.15;17:15;TSG Lu-Friesenheim;THW Kiel;20:33;0:2
+224;01.03.15;17:15;SC Magdeburg;TSV Hannover-Burgdorf;34:28;2:0
+248;04.03.15;19:00;TSG Lu-Friesenheim;HSV Handball;30:23;2:0
+236;07.03.15;19:00;HSG Wetzlar;TSG Lu-Friesenheim;32:27;2:0
+237;07.03.15;19:00;VfL Gummersbach;Bergischer HC;31:28;2:0
+239;07.03.15;19:00;TSV GWD Minden;FRISCH AUF! Goeppingen;24:26;0:2
+232;08.03.15;15:00;SG Flensburg-Handewitt;SG BBM Bietigheim;31:25;2:0
+235;08.03.15;17:15;TSV Hannover-Burgdorf;Rhein-Neckar Loewen;23:31;0:2
+238;08.03.15;17:15;TBV Lemgo;HC Erlangen;29:23;2:0
+233;10.03.15;20:15;HSV Handball;SC Magdeburg;33:29;2:0
+234;11.03.15;19:00;MT Melsungen;TuS N-Luebbecke;32:23;2:0
+290;11.03.15;20:15;HBW Balingen-Weilstetten;VfL Gummersbach;29:28;2:0
+231;12.03.15;19:00;THW Kiel;Fuechse Berlin;32:18;2:0
+244;14.03.15;19:00;Bergischer HC;TSV Hannover-Burgdorf;31:31;1:1
+246;15.03.15;15:00;FRISCH AUF! Goeppingen;VfL Gummersbach;23:23;1:1
+241;18.03.15;19:00;Rhein-Neckar Loewen;TSV GWD Minden;28:23;2:0
+242;18.03.15;19:00;Fuechse Berlin;HSG Wetzlar;32:24;2:0
+243;18.03.15;19:00;SC Magdeburg;TBV Lemgo;36:24;2:0
+249;18.03.15;19:00;HC Erlangen;SG Flensburg-Handewitt;22:22;1:1
+260;18.03.15;20:15;HBW Balingen-Weilstetten;Bergischer HC;25:24;2:0
+247;18.03.15;20:15;SG BBM Bietigheim;MT Melsungen;23:35;0:2
+245;18.03.15;20:15;TuS N-Luebbecke;THW Kiel;24:31;0:2
+255;21.03.15;19:00;TSV Hannover-Burgdorf;HC Erlangen;35:33;2:0
+256;21.03.15;19:00;TuS N-Luebbecke;TSG Lu-Friesenheim;24:26;0:2
+257;21.03.15;19:00;HSG Wetzlar;SC Magdeburg;31:31;1:1
+258;21.03.15;19:00;VfL Gummersbach;TSV GWD Minden;27:32;0:2
+270;22.03.15;17:15;FRISCH AUF! Goeppingen;HBW Balingen-Weilstetten;32:28;2:0
+253;25.03.15;19:00;HSV Handball;SG BBM Bietigheim;28:23;2:0
+254;25.03.15;19:00;MT Melsungen;Fuechse Berlin;31:24;2:0
+259;25.03.15;20:15;TBV Lemgo;Rhein-Neckar Loewen;28:39;0:2
+252;25.03.15;20:15;SG Flensburg-Handewitt;FRISCH AUF! Goeppingen;34:26;2:0
+267;27.03.15;19:45;TSV GWD Minden;TSV Hannover-Burgdorf;31:22;2:0
+261;28.03.15;15:45;Rhein-Neckar Loewen;VfL Gummersbach;29:24;2:0
+268;28.03.15;19:00;TSG Lu-Friesenheim;MT Melsungen;29:35;0:2
+264;28.03.15;19:00;Bergischer HC;SG Flensburg-Handewitt;36:31;2:0
+265;28.03.15;20:15;FRISCH AUF! Goeppingen;TBV Lemgo;28:27;2:0
+269;29.03.15;15:00;HC Erlangen;THW Kiel;22:36;0:2
+263;29.03.15;17:15;SC Magdeburg;TuS N-Luebbecke;26:32;0:2
+266;29.03.15;17:15;SG BBM Bietigheim;HSG Wetzlar;28:25;2:0
+262;01.04.15;19:00;Fuechse Berlin;HSV Handball;28:25;2:0
+251;01.04.15;20:15;THW Kiel;Bergischer HC;32:17;2:0
+280;01.04.15;20:45;HBW Balingen-Weilstetten;SG Flensburg-Handewitt;20:20;1:1
+275;02.04.15;19:00;TSV Hannover-Burgdorf;VfL Gummersbach;26:26;1:1
+276;04.04.15;19:00;TuS N-Luebbecke;SG BBM Bietigheim;32:24;2:0
+277;04.04.15;19:00;HSG Wetzlar;HC Erlangen;28:26;2:0
+278;04.04.15;19:00;TBV Lemgo;Bergischer HC;34:26;2:0
+279;04.04.15;19:00;TSG Lu-Friesenheim;Fuechse Berlin;26:31;0:2
+272;05.04.15;15:00;SG Flensburg-Handewitt;TSV GWD Minden;27:24;2:0
+273;05.04.15;17:15;HSV Handball;FRISCH AUF! Goeppingen;30:29;2:0
+271;05.04.15;17:15;THW Kiel;Rhein-Neckar Loewen;23:23;1:1
+281;07.04.15;19:00;Rhein-Neckar Loewen;MT Melsungen;32:26;2:0
+282;08.04.15;19:00;Fuechse Berlin;TuS N-Luebbecke;30:30;1:1
+250;08.04.15;19:00;TSV GWD Minden;HBW Balingen-Weilstetten;31:24;2:0
+283;08.04.15;20:15;SC Magdeburg;THW Kiel;26:32;0:2
+284;11.04.15;19:00;Bergischer HC;HSG Wetzlar;28:28;1:1
+286;11.04.15;20:15;FRISCH AUF! Goeppingen;TSV Hannover-Burgdorf;25:22;2:0
+287;11.04.15;20:15;SG BBM Bietigheim;TSG Lu-Friesenheim;24:26;0:2
+285;12.04.15;17:15;VfL Gummersbach;SG Flensburg-Handewitt;24:32;0:2
+288;12.04.15;17:15;TSV GWD Minden;TBV Lemgo;23:30;0:2
+289;15.04.15;19:00;HC Erlangen;HSV Handball;34:31;2:0
+274;15.04.15;20:15;MT Melsungen;SC Magdeburg;26:28;0:2
+300;15.04.15;20:15;HBW Balingen-Weilstetten;TSG Lu-Friesenheim;33:30;2:0
+297;17.04.15;19:45;HSG Wetzlar;Rhein-Neckar Loewen;31:27;2:0
+296;18.04.15;19:00;TuS N-Luebbecke;Bergischer HC;34:31;2:0
+298;18.04.15;19:00;TSG Lu-Friesenheim;SC Magdeburg;24:32;0:2
+299;19.04.15;15:00;TBV Lemgo;VfL Gummersbach;26:28;0:2
+295;19.04.15;17:15;TSV Hannover-Burgdorf;SG Flensburg-Handewitt;25:25;1:1
+293;21.04.15;19:00;Fuechse Berlin;SG BBM Bietigheim;33:32;2:0
+292;22.04.15;19:00;HSV Handball;TSV GWD Minden;28:25;2:0
+341;22.04.15;19:00;TuS N-Luebbecke;HBW Balingen-Weilstetten;30:33;0:2
+291;22.04.15;20:15;THW Kiel;FRISCH AUF! Goeppingen;28:21;2:0
+308;08.05.15;19:45;TSV GWD Minden;MT Melsungen;25:25;1:1
+342;08.05.15;19:45;HSG Wetzlar;HBW Balingen-Weilstetten;25:20;2:0
+310;13.05.15;20:15;HBW Balingen-Weilstetten;SC Magdeburg;25:32;0:2
+294;13.05.15;20:15;MT Melsungen;HC Erlangen;37:23;2:0
+306;15.05.15;20:15;VfL Gummersbach;THW Kiel;26:32;0:2
+309;16.05.15;19:00;HC Erlangen;TSG Lu-Friesenheim;37:26;2:0
+302;16.05.15;19:00;SG Flensburg-Handewitt;TBV Lemgo;24:24;1:1
+307;16.05.15;20:15;FRISCH AUF! Goeppingen;TuS N-Luebbecke;27:19;2:0
+303;17.05.15;17:15;TSV Hannover-Burgdorf;HSG Wetzlar;28:26;2:0
+304;20.05.15;19:00;SC Magdeburg;SG BBM Bietigheim;37:25;2:0
+305;20.05.15;20:15;Bergischer HC;HSV Handball;35:30;2:0
+311;20.05.15;20:15;THW Kiel;TSV GWD Minden;24:23;2:0
+330;20.05.15;20:15;Rhein-Neckar Loewen;HBW Balingen-Weilstetten;36:25;2:0
+316;22.05.15;19:45;HSG Wetzlar;VfL Gummersbach;29:30;0:2
+317;23.05.15;19:00;TBV Lemgo;TSV Hannover-Burgdorf;27:23;2:0
+314;23.05.15;19:00;MT Melsungen;FRISCH AUF! Goeppingen;27:32;0:2
+315;23.05.15;19:00;TuS N-Luebbecke;Rhein-Neckar Loewen;25:27;0:2
+312;24.05.15;15:00;HSV Handball;SG Flensburg-Handewitt;20:24;0:2
+313;24.05.15;16:45;Fuechse Berlin;SC Magdeburg;32:27;2:0
+318;24.05.15;17:15;SG BBM Bietigheim;HC Erlangen;24:26;0:2
+301;26.05.15;20:15;Rhein-Neckar Loewen;Fuechse Berlin;34:21;2:0
+319;27.05.15;19:00;TSG Lu-Friesenheim;Bergischer HC;30:29;2:0
+320;27.05.15;20:15;HBW Balingen-Weilstetten;MT Melsungen;28:23;2:0
+325;29.05.15;19:45;VfL Gummersbach;TuS N-Luebbecke;29:27;2:0
+328;29.05.15;19:45;TSV GWD Minden;SC Magdeburg;35:26;2:0
+329;29.05.15;19:45;HC Erlangen;Fuechse Berlin;28:28;1:1
+324;30.05.15;15:00;Bergischer HC;MT Melsungen;28:29;0:2
+322;30.05.15;19:00;SG Flensburg-Handewitt;HSG Wetzlar;27:21;2:0
+327;30.05.15;20:15;FRISCH AUF! Goeppingen;SG BBM Bietigheim;27:17;2:0
+326;31.05.15;17:15;TBV Lemgo;HSV Handball;45:26;2:0
+331;02.06.15;19:00;HBW Balingen-Weilstetten;Fuechse Berlin;26:35;0:2
+321;03.06.15;19:00;Rhein-Neckar Loewen;TSG Lu-Friesenheim;37:21;2:0
+323;03.06.15;20:15;TSV Hannover-Burgdorf;THW Kiel;26:28;0:2
+332;05.06.15;20:00;THW Kiel;TBV Lemgo;33:29;2:0
+333;05.06.15;20:00;HSV Handball;VfL Gummersbach;32:31;2:0
+334;05.06.15;20:00;Fuechse Berlin;SG Flensburg-Handewitt;29:32;0:2
+335;05.06.15;20:00;MT Melsungen;TSV Hannover-Burgdorf;29:26;2:0
+336;05.06.15;20:00;SC Magdeburg;Rhein-Neckar Loewen;27:32;0:2
+337;05.06.15;20:00;TuS N-Luebbecke;HC Erlangen;28:23;2:0
+338;05.06.15;20:00;HSG Wetzlar;FRISCH AUF! Goeppingen;29:24;2:0
+339;05.06.15;20:00;SG BBM Bietigheim;Bergischer HC;32:25;2:0
+340;05.06.15;20:00;TSG Lu-Friesenheim;TSV GWD Minden;28:24;2:0

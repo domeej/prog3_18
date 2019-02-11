@@ -1,15 +1,5 @@
-import sys,os
-from plist import Integer
-sys.path.insert(0, '/home/domee/gitRepos/prog3_18/python/a39')
-from a39 import Messwert
-
-'''
-Created on 29.01.2019
-
-@author: domee
-'''
-from _collections_abc import Iterable
-FILENAME = "messwerte.csv"
+from collections.abc import Iterable
+from messwert import Messwert
 
 class MonotonieVerstossError(ValueError):
     def __init__(self):
@@ -120,36 +110,3 @@ def enum(iterable):
         i += 1
         yield i,e
         
-  
-if __name__ == '__main__':
-    #x= Messreihe(open(FILENAME, 'r'))
-    x = Messreihe()
-    print(type(x))
-    x + Messwert("2013-07-15 16:03:08.260597",19.875)
-    x + Messwert("2013-07-16 18:03:08.260597",22.875)
-    x + Messwert("2013-07-16 18:03:08.260597",22.875)
-    x + Messwert("2013-07-16 18:03:08.260597",24.875)
-    x + Messwert("2013-07-16 18:03:08.260597",18.875)
-    x + Messwert("2018-07-16 18:03:08.260597",1.875)
-    #x + ("Vogel")
-    #x + ("Vogel", 'piep')
-
-    print(x.menge[2])
-    print(len(x))
-
-    print(type(x))
-    for i,e in enum(x):
-        print(i,"x:",e)
-    
-    print(x[3])
-    a = x['2013-07-16 18:03']
-    print(a)
-    print(a.menge)
-    print("slicing:", a.menge[-1:])
-    print(x)
-    print(x.menge)
-    
-    x.addNew(Messwert("2018-07-16 18:03:07.260597",1.875))
-         
-    
-    
