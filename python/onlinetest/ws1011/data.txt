@@ -1,0 +1,5 @@
+Nr;Datum;Zeit;Heim;Gast;Tore;Punkte
+006;23.08.14;19:00;TBV Lemgo;THW Kiel;37:21;2:0
+002;23.08.14;19:00;SG Flensburg-Handewitt;TSG Lu-Friesenheim;29:23;2:0
+003;23.08.14;19:00;TSV Hannover-Burgdorf;MT Melsungen;22:26;0:2
+002;23.08.14;19:00;SG Flensburg-Handewitt;TSG Lu-Friesenheim;29:23;4:0
