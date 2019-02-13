@@ -1,0 +1,37 @@
+Aufgabe 1:
+
+a) 
+def normalize(s)
+
+normalize soll Namen als Strings einlesen und diese als Vorname + Name zurückgeben.
+
+Beispiel: 
+Wolfgang Weitz -> Wolfgang Weitz
+Weitz, Wolfgang -> Wolfgang Weitz
+Robben van Persi, Arjen,  -> Arjen Robben van Persi
+Arjen Robben van Persi -> Arjen Robben van Persi
+
+b) 
+Schreiben Sie eine Klasse "Verkaeufe" die beliebig viele Dateien entgegennimmt und verarbeitet.
+Dateien sind in der FORM:
+
+Wolfgang Weitz;50,60,70
+Weitz, Wolfgang;90,99,77,30
+# inklusive leerzeilen usw
+
+bestehen also aus Namen + Summen einzelner Verkäufe. Es können beliebig viele Summen von Verkaeufen vorkommen.
+
+Die Klasse soll eine Funktion 'namen' haben die eine liste aller Namen der Verkaeufer zurückgibt, alphabetisch sortiert (aufsteigend)
+
+c)
+Mit verkaeufe["Name"] soll die summe aller Verkaeufe eines Verkäufers zurückgegeben werden. 
+Namen können dabei in beliebiger schreibweise vorkommen.
+
+d) 
+die Klasse Verkaeufe soll mit len(verkaeufe) aufgerufen werden können und die Anzahl der Verkäufer zurückgeben
+
+e)
+top() soll eine Liste der 3 top Verkäufer in absteigender anzahl zurückgeben, in folgender schreibweise:
+[(anzahl1,name1),(anzahl2,name2),anzahl3,name3)] also Liste aus Tupeln
+
+
